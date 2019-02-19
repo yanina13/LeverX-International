@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-spacing: 10px;
+}
+
+#orange {
+    background-color: orange;
+    height: 100px;
+}
+
+#yellow {
+    background-color: yellow;
+    height: 200px;
+}
+
+#blue {
+    background-color: blue;
+    height: 150px;
+}
+
+#gray {
+    background-color: gray;
+    height: 130px;
+}
